@@ -28,5 +28,4 @@ Create the following columns in the SharePoint list:
 
 Once the SharePoint list is created, import the files to create the PowerApp and PowerAutomate.
 
-
-
+The Water Cooler icon used was made by Creaticca Creative Agency from https://www.flaticon.com
