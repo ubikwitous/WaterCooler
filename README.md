@@ -25,8 +25,17 @@ Create the following columns in the SharePoint list:
 4. Created By  
 This is a default column, so no need to create it, but you may want to add it to your View on the SharePoint list.
 
+## Permissions on the SharePoint List
+This is a critical step to keep people from overwriting others' information.  
+Go into the List Settings.  
+Click Advanced Settings.  
+Under Create and Edit access, be sure to select 'Create items and edit items that were created by the user'
+
 ## Import the PowerApp and PowerAutomate
 Once the SharePoint list is created, import the files to create the PowerApp and PowerAutomate.
+
+## Usage
+The Splash Screen loads on a timer for 3 seconds. When the next screen appears, it is a list where users 
 
 ## Other Information
 The Water Cooler icon used was made by Creaticca Creative Agency from https://www.flaticon.com
