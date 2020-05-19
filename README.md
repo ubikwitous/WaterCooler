@@ -1,4 +1,5 @@
 # WaterCooler
+Connect with people around a virtual water cooler!
 This PowerApp allows people to sign up, record their interests, and connect with others in 15 minute 1:1 meetings during an hour of their choice. This can be helpful when large teams work across locations or when everyone is working from home.
 
 The files included are:
