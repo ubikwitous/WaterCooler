@@ -34,6 +34,9 @@ Under Create and Edit access, be sure to select 'Create items and edit items tha
 ## Import the PowerApp and PowerAutomate
 Once the SharePoint list is created, import the files to create the PowerApp and PowerAutomate.
 
+## Note about calendar.help
+This app uses calendar.help to automate the scheduling of meetings, which means each user MUST register for it to work. You can adjust the code in the PowerAutomate to simply send the message asking for a time if this is not an option.
+
 ## Usage
 The Splash Screen loads on a timer for 3 seconds. When the next screen appears, it is a list where users 
 
