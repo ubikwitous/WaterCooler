@@ -38,7 +38,7 @@ Once the SharePoint list is created, import the files to create the PowerApp and
 This app uses calendar.help to automate the scheduling of meetings, which means each user MUST register for it to work. You can adjust the code in the PowerAutomate to simply send the message asking for a time if this is not an option.
 
 ## Usage
-The Splash Screen loads on a timer for 3 seconds. When the next screen appears, it is a list where employees can add themselves, search, or be connected with a random person.
+The Splash Screen loads on a timer for 3 seconds. When the next screen appears, the user sees a list where employees can add themselves, search, or be connected with a random person.
 
 This app works best if people populate their own data. Because this is a PowerApp, there is a list limit of 250 people that can be displayed.
 
