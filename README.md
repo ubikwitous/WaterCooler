@@ -3,8 +3,8 @@ Connect with people around a virtual water cooler!
 This PowerApp allows people to sign up, record their interests, and connect with others in 15 minute 1:1 meetings during an hour of their choice. This can be helpful when large teams work across locations or when everyone is working from home.
 
 ## Included Files
-The files included are:
-Water Cooler.msapp - The PowerApp template
+The files included are:  
+Water Cooler.msapp - The PowerApp template  
 WaterCoolerSchedule_20200519201617 - The PowerAutomate template for the email
 
 ## SharePoint List
@@ -33,6 +33,9 @@ Under Create and Edit access, be sure to select 'Create items and edit items tha
 
 ## Import the PowerApp and PowerAutomate
 Once the SharePoint list is created, import the files to create the PowerApp and PowerAutomate.
+
+## Ways to Modify
+If you want a truly random experience where you can't see names or titles, go to the Browse Screen and remove the first two fields or set the Visible design property to 'false'.
 
 ## Note about calendar.help
 This app uses calendar.help to automate the scheduling of meetings, which means each user MUST register for it to work. You can adjust the code in the PowerAutomate to simply send the message asking for a time if this is not an option.
