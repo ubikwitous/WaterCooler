@@ -35,7 +35,7 @@ Under Create and Edit access, be sure to select 'Create items and edit items tha
 Once the SharePoint list is created, import the files to create the PowerApp and PowerAutomate.
 
 ## Ways to Modify
-If you want a truly random experience where you can't see names or titles, go to the Browse Screen and remove the first two fields or set the Visible design property to 'false'.
+If you want a truly random experience where you can't see names, go to the Browse Screen and remove the first field or set the Visible design property to 'false'.
 
 ## Note about calendar.help
 This app uses calendar.help to automate the scheduling of meetings, which means each user MUST register for it to work. You can adjust the code in the PowerAutomate to simply send the message asking for a time if this is not an option.
