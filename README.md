@@ -27,6 +27,7 @@ This is a default column, so no need to create it, but you may want to add it to
 
 ## Permissions on the SharePoint List
 This is a critical step to keep people from overwriting others' information.  
+Go to the SharePoint list.  
 Go into the List Settings.  
 Click Advanced Settings.  
 Under Create and Edit access, be sure to select 'Create items and edit items that were created by the user'
