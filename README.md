@@ -39,7 +39,9 @@ Once the SharePoint list is created, import the files to create the PowerApp and
 If you want a truly random experience where you can't see names, go to the Browse Screen and remove the first field or set the Visible design property to 'false'.
 
 ## Note about calendar.help
-This app uses calendar.help to automate the scheduling of meetings, which means each user MUST register for it to work. You can adjust the code in the PowerAutomate to simply send the message asking for a time if this is not an option.
+This app uses calendar.help to automate the scheduling of meetings, which means each user MUST register for it to work. Users can register at https://calendar.help.
+
+You can adjust the code in the PowerAutomate to simply send the message asking for a time if this is not an option.
 
 ## Usage
 The Splash Screen loads on a timer for 3 seconds. When the next screen appears, the user sees a list where employees can add themselves, search, or be connected with a random person.
