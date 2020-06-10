@@ -48,7 +48,7 @@ You can adjust the code in the PowerAutomate to simply send the message asking f
 ## Usage
 The Splash Screen loads on a timer for 3 seconds. When the next screen appears, the user sees a list where employees can add themselves, search, or be connected with a random person.
 
-This app works best if people populate their own data. Because this is a PowerApp, there is a list limit of 250 people that can be displayed.
+This app works best if people populate their own data. Because this is a PowerApp, there is a list limit of 500 people that can be displayed. For more information on potentially increasing this to 2,000 people, check here: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/delegation-overview#changing-the-limit. Note: I did not test this!
 
 ## Other Information
 The Water Cooler icon used was made by Creaticca Creative Agency from https://www.flaticon.com
