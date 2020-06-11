@@ -10,7 +10,7 @@ Water Cooler.msapp - The PowerApp template
 WaterCoolerSchedule_20200519201617 - The PowerAutomate template for the email
 
 ## SharePoint List
-You will also need to create a SharePoint list and connect it to the PowerApp. 
+You will also need to create a SharePoint list and connect it to the PowerApp. I recommend naming the list 'Water Cooler'. When you select the Data Source, it will make it pick up the new list without modification.
 Create the following columns in the SharePoint list:
 
 1. Interests  
@@ -44,6 +44,9 @@ If you want a truly random experience where you can't see names, go to the Brows
 This app uses calendar.help to automate the scheduling of meetings, which means each user MUST register for it to work. Users can register at https://calendar.help.
 
 You can adjust the code in the PowerAutomate to simply send the message asking for a time if this is not an option.
+
+## Sharing to Teams
+You can publish this PowerApp to Teams, but you must be sure that the SharePoint list exists in that team and you share the app with an Office 365 Security Enabled group per this documentation: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-an-app-with-office-365-groups
 
 ## Usage
 The Splash Screen loads on a timer for 3 seconds. When the next screen appears, the user sees a list where employees can add themselves, search, or be connected with a random person.
