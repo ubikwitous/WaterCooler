@@ -46,7 +46,7 @@ This app uses calendar.help to automate the scheduling of meetings, which means 
 You can adjust the code in the PowerAutomate to simply send the message asking for a time if this is not an option.
 
 ## Sharing to Teams
-You can publish this PowerApp to Teams, but you must be sure that the SharePoint list exists in that team and you share the app with an Office 365 Security Enabled group per this documentation: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-an-app-with-office-365-groups
+If you share this app on a tab in Teams, you must be sure that the SharePoint list exists in that team and you share the app with an Office 365 Security Enabled group per this documentation: https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-an-app-with-office-365-groups
 
 ## Usage
 The Splash Screen loads on a timer for 3 seconds. When the next screen appears, the user sees a list where employees can add themselves, search, or be connected with a random person.
